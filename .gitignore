@@ -1,0 +1,8 @@
+# IDE files
+.idea/
+
+# Python byte code files
+__pycache__/
+
+# sqlite db
+db.sqlite3
