@@ -1,5 +1,5 @@
 """
-ASGI config for spongi project.
+ASGI config for reign project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

@@ -1,5 +1,5 @@
 """
-WSGI config for spongi project.
+WSGI config for reign project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
