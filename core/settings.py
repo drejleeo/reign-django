@@ -38,9 +38,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    # internal apps
+    'lists',
+    'waves',
+
     'material.admin',
     'material.admin.default',
-
 ]
 
 MIDDLEWARE = [

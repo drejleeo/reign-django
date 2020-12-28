@@ -1,8 +1,11 @@
-# IDE files
+# IDE files, Python byte code files, environment and system files
 .idea/
-
-# Python byte code files
+.vscode/
 __pycache__/
+.DS_Store
 
 # sqlite db
 db.sqlite3
+
+# storage
+storage/
